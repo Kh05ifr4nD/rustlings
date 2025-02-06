@@ -1,0 +1,2 @@
+[target.'cfg(all())']
+rustflags = ["-A", "dead_code"]

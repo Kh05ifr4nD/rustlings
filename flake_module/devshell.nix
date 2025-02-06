@@ -41,6 +41,7 @@
                 cargo-nextest
                 cargo-release
                 cargo-sort
+                rustlings
                 rustToolchain
               ]
               ++ [
